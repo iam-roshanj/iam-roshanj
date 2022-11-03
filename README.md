@@ -3,7 +3,8 @@
 
 <h2 align="center"> A passionate learner || Computer Engineering Student </h2>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+<img align="center" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 ### Github Profile:
 
