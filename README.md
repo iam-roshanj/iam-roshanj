@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **jharoshan393@gmail.com**
 
-- ⚡ My first priority **Peace of my mind**
+- ⚡ My first priority: **Peace of mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
