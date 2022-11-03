@@ -1,6 +1,7 @@
+![logo](https://github.com/iam-roshanj/iam-roshanj/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
-<h2 align="center"> Problem Solver,Coder,Learner </h3>
-<h4 align="center"> 3rd year Computer Engineering Student at IOE,Pulchowk Campus </h3>
+
+<h2 align="center"> A passionate learner || Computer Engineering Student </h2>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
