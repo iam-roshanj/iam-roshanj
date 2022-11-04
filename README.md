@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-roshanj" alt="iam-roshanj" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Computing and Web development**
+- 🔭 I’m currently working on **Cloud Computing and self projects**
 
 - 🌱 I’m currently learning **Node.js, ML ,**
 
