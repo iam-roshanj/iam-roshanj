@@ -12,19 +12,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-roshanj" alt="iam-roshanj" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Computing and self projects**
+- 🔭 I’m currently working on **Cloud Computing and self projects.**
 
-- 🌱 I’m currently learning **Node.js, ML ,**
+- 🌱 I’m currently learning **Node.js, ML.**
 
-- 👯 I’m looking to collaborate on **Tech Business in Ideation Phase**
+- 👯 I’m looking to collaborate on **Tech Business in Ideation Phase.**
 
 - 🤝 I’m looking for help with **Startups and projects**
 
 - 📝 I regularly post videos on different challenges at [Goodwall](https://www.goodwall.io/roshan-jha-3100) and [Yoma.](https://app.yoma.africa/digital-cv)
 
-- 💬 Ask me about **Problem Solving,Mathematics,Data analysis**
+- 💬 Ask me about: **Problem Solving,Mathematics,Data analysis.**
 
-- 📫 How to reach me **jharoshan393@gmail.com**
+- 📫 How to reach me: **jharoshan393@gmail.com**
 
 - ⚡ My first priority: **Peace of mind**
 
