@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Cloud Computing and self projects.**
 
-- 🌱 I’m currently learning **Node.js, ML.**
+- 🌱 I’m currently learning **Data Science and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Tech Business in Ideation Phase.**
 
