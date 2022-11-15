@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **Startups and projects**
 
-- 📝 I regularly post videos on different challenges at [Goodwall](https://www.goodwall.io/roshan-jha-3100) and [Yoma.](https://app.yoma.africa/digital-cv)
+- 📝 I regularly post videos on different challenges at [Yoma.](https://app.yoma.africa/digital-cv)
 
 - 💬 Ask me about: **Problem Solving,Mathematics,Data analysis.**
 
