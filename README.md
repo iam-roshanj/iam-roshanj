@@ -44,10 +44,3 @@
 [![@iamroshan's Holopin board](https://holopin.me/iamroshan)](https://holopin.io/@iamroshan)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-roshanj&show_icons=true&locale=en&layout=compact" alt="iam-roshanj" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-roshanj&show_icons=true&locale=en" alt="iam-roshanj" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-roshanj&" alt="iam-roshanj" /></p>
